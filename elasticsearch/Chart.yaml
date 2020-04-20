@@ -1,9 +1,9 @@
 apiVersion: v1
-description: Official Elastic helm chart for Elasticsearch
-home: https://github.com/elastic/helm-charts
+description: CA fork of Elastic helm chart for Elasticsearch
+home: https://github.com/citizensadvice/helm-charts
 maintainers:
-- email: helm-charts@elastic.co
-  name: Elastic
+- email: ca-devops@citizensadvice.org.uk
+  name: CA Devops
 name: elasticsearch
 version: 7.6.2
 appVersion: 7.6.2
